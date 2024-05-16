@@ -1,19 +1,13 @@
-
-
 body {
-    font-family:"Roboto",sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
 
 /*---------------------NAVIGATION---------------------*/
-.nav {
+.nav {}
 
-}
-
-.logo {
-
-}
+.logo {}
 
 .logo-link {
     font-weight: 700;
@@ -24,156 +18,94 @@ body {
     color: var(--navy-blue);
 }
 
-.nav-list {
+.nav-list {}
 
-}
+.nav-item {}
 
-.nav-item {
-
-}
-
-.nav-link {
-
-}
+.nav-link {}
 
 /* --------------------------------------------------- */
 
 
 
 /*---------------------ADDERESS---------------------*/
-.address {
+.address {}
 
-}
+.address-list {}
 
-.address-list {
+.address-item {}
 
-}
-
-.address-item {
-
-}
-
-.address-link {
-
-}
+.address-link {}
 
 /* --------------------------------------------------- */
 
 
 
 /*---------------------PAGE---------------------*/
-.page {
+.page {}
 
-}
+.page-title {}
 
-.page-title {
-
-}
-
-.button {
-
-}
+.button {}
 
 /* --------------------------------------------------- */
 
 
 
 /*---------------------CONTENT---------------------*/
-.content {
+.content {}
 
-}
+.content-list {}
 
-.content-list {
+.content-item {}
 
-}
+.content-subtitle {}
 
-.content-item {
-
-}
-
-.content-subtitle {
-
-}
-
-.content-text {
-
-}
+.content-text {}
 
 /* --------------------------------------------------- */
 
 
 /*---------------------TEAM---------------------*/
-.team {
+.team {}
 
-}
+.team-title {}
 
-.team-title {
+.teem-list {}
 
-}
+.team-item {}
 
-.teem-list {
+.team-img {}
 
-}
+.team-subtitle {}
 
-.team-item {
-
-}
-
-.team-img {
-
-}
-
-.team-subtitle {
-
-}
-
-.team-text {
-
-}
+.team-text {}
 
 /* --------------------------------------------------- */
 
 
 
 /*---------------------PORTFOLIO---------------------*/
-.portfolio {
+.portfolio {}
 
-}
+.portfolio-title {}
 
-.portfolio-title {
+.portfolio-list {}
 
-}
+.portfolio-item {}
 
-.portfolio-list {
+.portfolio-img {}
 
-}
+.portfolio-subtitle {}
 
-.portfolio-item {
-
-}
-
-.portfolio-img {
-
-}
-
-.portfolio-subtitle {
-
-}
-
-.portfolio-text {
-
-}
+.portfolio-text {}
 
 /* --------------------------------------------------- */
 
 
 /*---------------------ASIDE---------------------*/
-.aside {
+.aside {}
 
-}
-
-.aside-text {
-
-}
+.aside-text {}
 
 /* --------------------------------------------------- */
