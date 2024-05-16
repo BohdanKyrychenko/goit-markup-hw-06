@@ -1,0 +1,179 @@
+
+
+body {
+    font-family:"Roboto",sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+/*---------------------NAVIGATION---------------------*/
+.nav {
+
+}
+
+.logo {
+
+}
+
+.logo-link {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--navy-blue);
+}
+
+.nav-list {
+
+}
+
+.nav-item {
+
+}
+
+.nav-link {
+
+}
+
+/* --------------------------------------------------- */
+
+
+
+/*---------------------ADDERESS---------------------*/
+.address {
+
+}
+
+.address-list {
+
+}
+
+.address-item {
+
+}
+
+.address-link {
+
+}
+
+/* --------------------------------------------------- */
+
+
+
+/*---------------------PAGE---------------------*/
+.page {
+
+}
+
+.page-title {
+
+}
+
+.button {
+
+}
+
+/* --------------------------------------------------- */
+
+
+
+/*---------------------CONTENT---------------------*/
+.content {
+
+}
+
+.content-list {
+
+}
+
+.content-item {
+
+}
+
+.content-subtitle {
+
+}
+
+.content-text {
+
+}
+
+/* --------------------------------------------------- */
+
+
+/*---------------------TEAM---------------------*/
+.team {
+
+}
+
+.team-title {
+
+}
+
+.teem-list {
+
+}
+
+.team-item {
+
+}
+
+.team-img {
+
+}
+
+.team-subtitle {
+
+}
+
+.team-text {
+
+}
+
+/* --------------------------------------------------- */
+
+
+
+/*---------------------PORTFOLIO---------------------*/
+.portfolio {
+
+}
+
+.portfolio-title {
+
+}
+
+.portfolio-list {
+
+}
+
+.portfolio-item {
+
+}
+
+.portfolio-img {
+
+}
+
+.portfolio-subtitle {
+
+}
+
+.portfolio-text {
+
+}
+
+/* --------------------------------------------------- */
+
+
+/*---------------------ASIDE---------------------*/
+.aside {
+
+}
+
+.aside-text {
+
+}
+
+/* --------------------------------------------------- */
