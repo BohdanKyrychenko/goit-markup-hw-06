@@ -7,46 +7,93 @@ body {
 /*---------------------NAVIGATION---------------------*/
 .nav {}
 
-.logo {}
+.logo {
+    color: #2e2f42;
+}
 
 .logo-link {
+    font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--navy-blue);
+    color: #4d5ae5;
 }
 
 .nav-list {}
 
 .nav-item {}
 
-.nav-link {}
+.nav-link:hover, .nav-link:focus {
+    color: #404bbf;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
 /* --------------------------------------------------- */
 
 
 
 /*---------------------ADDERESS---------------------*/
-.address {}
+.address {
+    font-style: normal;
+}
 
 .address-list {}
 
 .address-item {}
 
-.address-link {}
+.address-link:hover, .address-link:focus {
+    color: #404bbf;
+}
+
+.address-link {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 
 /* --------------------------------------------------- */
 
 
 
 /*---------------------PAGE---------------------*/
-.page {}
+.page {
+    background-color: #2e2f42;
+}
 
-.page-title {}
+.page-title {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
 
-.button {}
+.button:hover, .button:focus {
+    background-color: #404BBF
+}
+
+.button {
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    background-color: #4D5AE5;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.04em;
+        color: #fff;
+}
 
 /* --------------------------------------------------- */
 
@@ -59,27 +106,64 @@ body {
 
 .content-item {}
 
-.content-subtitle {}
+.content-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 
-.content-text {}
+.content-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 
 /* --------------------------------------------------- */
 
 
 /*---------------------TEAM---------------------*/
-.team {}
+.team {
+    background-color: #F4F4FD
+}
 
-.team-title {}
+.team-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
 
-.teem-list {}
+.teem-list {
+    background-color: #FFFFFF;
+}
 
 .team-item {}
 
 .team-img {}
 
-.team-subtitle {}
+.team-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
 
-.team-text {}
+.team-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
 
 /* --------------------------------------------------- */
 
@@ -88,7 +172,14 @@ body {
 /*---------------------PORTFOLIO---------------------*/
 .portfolio {}
 
-.portfolio-title {}
+.portfolio-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
 
 .portfolio-list {}
 
@@ -96,16 +187,39 @@ body {
 
 .portfolio-img {}
 
-.portfolio-subtitle {}
+.portfolio-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 
-.portfolio-text {}
+.portfolio-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 
 /* --------------------------------------------------- */
 
 
 /*---------------------ASIDE---------------------*/
-.aside {}
+.aside {
+    background-color: #2e2f42;
+}
 
-.aside-text {}
+.aside-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
 
+.aside .logo-link > span{
+    color:#f4f4fd;
+}
 /* --------------------------------------------------- */
