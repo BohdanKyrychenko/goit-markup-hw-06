@@ -325,6 +325,7 @@ a {
 /*---------------------ASIDE---------------------*/
 .aside {
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 
 .aside-text {
@@ -335,12 +336,18 @@ a {
         color: #f4f4fd;
 }
 
-.aside .logo-link {
+/* .aside .logo-link {
     font-family: "Raleway", sans-serif;
-}
+} */
 
 .aside .logo-link .logo {
     color:#f4f4fd;
+}
+
+.footer-logo-link {
+    font-family: "Raleway", sans-serif;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 /* --------------------------------------------------- */
 
