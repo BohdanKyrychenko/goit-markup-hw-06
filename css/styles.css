@@ -297,6 +297,7 @@ a {
     background-position: center;
     background-size: cover;
     padding: 72px 0;
+    margin: 0 auto;
 }
 
 @media screen and 
@@ -1003,7 +1004,7 @@ border-radius: 4px;
         }
 
         .team-list { 
-            gap: 24px;
+            gap: 64px 24px;
         }
 
         .content-item {
@@ -1085,7 +1086,7 @@ border-radius: 4px;
 
 }
 
-@media screen and (min-width: 1140px) {
+@media screen and (min-width: 1158px) {
     .container {
         width: 1140px;
     }
@@ -1094,7 +1095,7 @@ border-radius: 4px;
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), 
             rgba(46, 47, 66, 0.7)), 
             url(../images/people-office.jpg);
-        max-width: 1140px;
+        max-width: 1440px;
         padding: 188px 0;
         margin: 0 auto;
     }
@@ -1186,7 +1187,7 @@ border-radius: 4px;
         }
 
         .aside-text {
-            margin-bottom: 100px;
+            margin-bottom: 0;
             max-width: 264px;
         }
 
